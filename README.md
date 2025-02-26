@@ -83,5 +83,3 @@ The agent follows these steps:
 - Improve tool selection logic for multi-step reasoning.
 - Optimize response formatting for clarity.
 
-This AI agent demonstrates how an LLM can effectively leverage external tools for more accurate and informed responses.
-
